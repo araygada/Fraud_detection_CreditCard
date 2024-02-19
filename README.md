@@ -1,0 +1,1 @@
+Machine learning application model for credit card fraud detection using the sklearn Python libraries with logistic regression and a web application model to test individual transactions developed with the streamlit library.
